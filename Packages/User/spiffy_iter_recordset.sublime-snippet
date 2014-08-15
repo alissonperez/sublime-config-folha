@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[while ( ! \$${1:r}->is_eof() ) {
+	${2}
+	\$${1:r}->move_next() ;
+}]]></content>
+	<tabTrigger>spf_iter_rs</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
