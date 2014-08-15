@@ -2,3 +2,5 @@ Cache
 Index
 Local
 Installed Packages
+*.cache
+*.last-run

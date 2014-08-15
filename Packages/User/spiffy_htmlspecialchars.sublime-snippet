@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[spiffy_htmlspecialchars( ${1} )]]></content>
+	<tabTrigger>spf_spec</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
