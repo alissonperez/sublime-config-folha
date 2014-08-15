@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+print_pre( $1 ) ;
+die() ;
+]]></content>
+	<tabTrigger>pp</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
