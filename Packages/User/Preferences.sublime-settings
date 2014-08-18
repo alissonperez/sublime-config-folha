@@ -5,5 +5,8 @@
 	] ,
 
     // Set to true to removing trailing white space on save
-    "trim_trailing_white_space_on_save": true
+    "trim_trailing_white_space_on_save": true ,
+
+    // Encode
+    "default_encoding": "ISO-8859-1"
 }

@@ -3,7 +3,7 @@
   "completions":
   [
     { "trigger" : "@api",           "contents": ""},
-    { "trigger" : "@author",        "contents": "@author    Alisson R. Perez ${3:<alisson.perez@grupofolha.com.br>}" },
+    { "trigger" : "@author",        "contents": "@author	Alisson R. Perez ${3:<alisson.perez@grupofolha.com.br>}" },
     { "trigger" : "@category",      "contents": "@category ${1:[category]}"},
     { "trigger" : "@copyright",     "contents": "@copyright ${1:[description]}"},
     { "trigger" : "@deprecated",    "contents": "@deprecated    ${1:[description]}"},
@@ -14,9 +14,9 @@
     { "trigger" : "@link",          "contents": "@link ${1:[url]} ${2:[description]}"},
     { "trigger" : "@method",        "contents": "@method {${1:[return type]}} ${2:[name]}() ${2:[name]}(${3:[args]}) ${4:[description]}"},
     { "trigger" : "@package",       "contents": "@package ${1:[name]}"},
-    { "trigger" : "@param",         "contents": "@param     ${1:[type]}     ${2:[varname]}      ${3:[description]}" },
+    { "trigger" : "@param",         "contents": "@param		${1:[type]}		${2:[varname]}		${3:[description]}" },
     { "trigger" : "@property",      "contents": "@property ${1:[type]} ${2:[varname]} ${3:[description]}"},
-    { "trigger" : "@return",        "contents": "@return    ${1:[type]} ${2:[description]}" },
+    { "trigger" : "@return",        "contents": "@return	${1:[type]} ${2:[description]}" },
     { "trigger" : "@see",           "contents": "@see   ${1:[description]}"},
     { "trigger" : "@since",         "contents": "@since ${1:[version]}"},
     { "trigger" : "@subpackage",    "contents": "@subpackage ${1:[name]}"},
